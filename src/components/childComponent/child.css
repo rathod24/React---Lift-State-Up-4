@@ -1,0 +1,14 @@
+
+.children{
+    background-color: darkorange;
+    padding: 21px 8px;
+}
+.flex{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.btn{
+    width: 60px;
+    height: 25px;
+}
